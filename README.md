@@ -2,7 +2,7 @@
 
 Full-Stack Engineer focused on building production-grade SaaS and AI applications with Next.js, TypeScript, PostgreSQL, and Docker.
 
-Currently building:
+Featured projects:
 - **Nexus** — AI chatbot platform with RAG, pgvector, Cohere embeddings, Groq, Stripe, Docker, and CI/CD
 - **Formigo** — embeddable feedback widget SaaS with Stripe subscriptions and real-time notifications
 - **Writerly** — full-stack blog platform with authentication, comments, and CRUD functionality
