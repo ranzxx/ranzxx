@@ -9,7 +9,7 @@ Featured projects:
 
 ## Tech Stack
 
-Next.js • TypeScript • React • PostgreSQL • Drizzle ORM • Docker • Tailwind CSS • shadcn/ui • Better Auth • Stripe • Playwright • Vitest
+Next.js • TypeScript • React • PostgreSQL • Drizzle ORM • AI SDK • Docker • Tailwind CSS • shadcn/ui • Better Auth • Stripe • Playwright • Vitest
 
 ## Contact
 
